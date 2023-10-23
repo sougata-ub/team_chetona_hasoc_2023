@@ -1,0 +1,44 @@
+{
+    "tweet_id": "2022_train_main_tweet_31",
+    "tweet": "We Love our S-I-M-B-A 🦁\n\n#WeStandWithAryanKhan @URL",
+    "comments": [
+        {
+            "tweet_id": "2022_train_main_tweet_31_comment_1",
+            "tweet": "@AUTHOR Aryan Khan is under custody aur abhi investigation chl rahi h. lekin agar voh shi mei doshi hua toh tweet delete toh nahi kroge ?"
+        },
+        {
+            "tweet_id": "2022_train_main_tweet_31_comment_2",
+            "tweet": "@AUTHOR Hope at least u r getting paid.",
+            "replies": [
+                {
+                    "tweet_id": "2022_train_main_tweet_31_comment_2_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Yes he is getting 25 paise per post 🤣🤣🤣"
+                }
+            ]
+        },
+        {
+            "tweet_id": "2022_train_main_tweet_31_comment_3",
+            "tweet": "@AUTHOR Nashedi Aryan Khan",
+            "replies": [
+                {
+                    "tweet_id": "2022_train_main_tweet_31_comment_3_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Nashedi SSR latak ke mar gaya"
+                },
+                {
+                    "tweet_id": "2022_train_main_tweet_31_comment_3_reply_2",
+                    "tweet": "@COMMENTATOR @AUTHOR Sushant ganjedi 😂"
+                }
+            ]
+        },
+        {
+            "tweet_id": "2022_train_main_tweet_31_comment_4",
+            "tweet": "@AUTHOR #WeStandWithNCB\n#HatsOffToSameerWankhede",
+            "replies": [
+                {
+                    "tweet_id": "2022_train_main_tweet_31_comment_4_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Sushant ganjedi 😂"
+                }
+            ]
+        }
+    ]
+}

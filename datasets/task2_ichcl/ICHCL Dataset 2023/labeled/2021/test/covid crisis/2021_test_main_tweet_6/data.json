@@ -1,0 +1,432 @@
+{
+    "tweet_id": "2021_test_main_tweet_6",
+    "tweet": "I am COVID positive and recovering. Your love and blessings sustain me. 🙏 @URL",
+    "comments": [
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_1",
+            "tweet": "@AUTHOR Get well soon sudhir ji",
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_2",
+            "tweet": "@AUTHOR Wish you a speedy and full recovery 🙏🏻🙏🏻",
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_3",
+            "tweet": "@AUTHOR जन जन की आवाज को कुछ नही हो सकता हूं सर । माता रानी की कृपा से आप जल्द ही स्वस्थ होंगे और फिर से मुस्कुराएगा इंडिया।\n#GetwellsoonSudhirSir",
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_4",
+            "tweet": "@AUTHOR मै भगवान जी से प्रार्थना करता हूं कि आप जल्दी से ठीक हो जाए",
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_5",
+            "tweet": "@AUTHOR Best wishes for a speedy recovery!",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_5_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Bhag bsdk",
+                    "label": "HOF"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_6",
+            "tweet": "@AUTHOR Wishing you speedy recovery.",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_6_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR तिहाड़ी का भी टिकट कटने वाला है उसकी फॅमिली के लिए अच्छे से ट्वीट तैयार कर लो",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_6_reply_2",
+                    "tweet": "@COMMENTATOR @AUTHOR wishing you both speedy recovery from modi bhakti.",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_6_reply_3",
+                    "tweet": "@COMMENTATOR @AUTHOR One dalal to another dalal",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_6_reply_4",
+                    "tweet": "@COMMENTATOR @AUTHOR अमीश भाई तुमको काहे कोरॉना नहीं हो रहा । 🙏",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_6_reply_5",
+                    "tweet": "@COMMENTATOR @AUTHOR COVID virus is unable to overtake this virus yet..best wishes for Covid",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_6_reply_6",
+                    "tweet": "@COMMENTATOR @AUTHOR Kya be B&amp;D kaisa hi tu..",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_6_reply_7",
+                    "tweet": "@COMMENTATOR @AUTHOR @COMMENTATOR लो अब भड़वा भाई भी विश कर रहे है😂😂😂😂😂",
+                    "label": "HOF"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_7",
+            "tweet": "@AUTHOR भगवान भोलेनाथ आप को शीघ्र से शीघ्र ठीक करे। हम सोच ही रहे थे कि 2 दिन से DNA सुना सुना लग रहा था। हमे तो पता ही नही चला। Get well soon sudhir ji🙏",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_7_reply_1",
+                    "tweet": "@AUTHOR सुधीर सर् अब आपकी कैसी तबियत है । प्लीज अपना बहुत अच्छे से ध्यान रखिएगा🙏🙏🙏🙏🙏",
+                    "label": "NONE"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_8",
+            "tweet": "@AUTHOR My mother loves u and she finds you hot, &amp; also she wishes u speedy recovery",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_8_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Hot 😅 🤣🤣 since when tatti be taken as hot.",
+                    "label": "HOF"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_9",
+            "tweet": "@AUTHOR आप जल्द स्वस्थ हों\nप्रभु श्रीराम की कृपा आप पर बनी रहे 🙏🏻",
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_10",
+            "tweet": "@AUTHOR जमात में गए थे क्या",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_10_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR नहीं जमानत पर हैं 😁😁😁",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_10_reply_2",
+                    "tweet": "@COMMENTATOR @AUTHOR क्यों भाई कोरोना जमात वालों को होता है क्या?? ये संकर्मण जातिधर्म नही देखता किसी को भी हो सकता है इसलिए सतर्क रहे सुरक्षित रहे 🙏🏻🙏🏻",
+                    "label": "NONE"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_10_reply_3",
+                    "tweet": "@COMMENTATOR @AUTHOR One of the MP प्रज्ञा सिंह has revealed through her experience the concrete treatment for Corona. He must try fresh Goumutr for fast recovery.",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_10_reply_4",
+                    "tweet": "@COMMENTATOR गए तो जमात में थे लेकिन मौलवी को कॉविड था, वहा एक औरत बैठी थी, मौलवी के पास हलाला के लिए आई थीं , मौलवी के बीमार की वजह से इनको हलाला करना पड़ा, लेकिन इन्होंने उसकी शादी बचा ली। खुद भी corona ho गया लेकिन आप ने नही बताता , आप मौलवी के पास क्या करने गई थी जो आपको पता हैं।",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_10_reply_5",
+                    "tweet": "@COMMENTATOR @AUTHOR मोहतरमा ये किसी को भी हो सकता है खुदा ना करे आप को भी हो किसी का हाल नहीं पूछना ना पूछिये इस तरह से बेज़्ज़ती भी तो ना करिए आप खुद एक पत्रकार हैं इतनी नफ़रत अच्छी नहीं",
+                    "label": "NONE"
+                }
+            ],
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_11",
+            "tweet": "@AUTHOR Wishing you a speedy Recovery @AUTHOR ji 💐😊",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_11_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR जाहिल सुअर कोरोना फैला रहा है @URL",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_11_reply_2",
+                    "tweet": "@COMMENTATOR @AUTHOR Ek dalka to doosra dalla",
+                    "label": "HOF"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_12",
+            "tweet": "@AUTHOR आप हिम्मती हैं सुधीर जी, बड़ी बड़ी मुसीबतों का सामना किया हैआपने,और उनसे जीत के निकले हैं।अभी भी आप कोरोना को हराकर निकलेंगे। हम सभी आपके सच्चे प्रशंसक हैं और सच्चे प्रशंसकों की प्रार्थना कभी व्यर्थ नही जाएगी।भगवान हमारी प्रार्थना जरूर सुनेंगे और आप जल्द ही स्वस्थ होकर आएंगे। 🙏",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_12_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR 🙏🏼🙏🏼",
+                    "label": "NONE"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_12_reply_2",
+                    "tweet": "@COMMENTATOR @AUTHOR आप हिम्मती हैं सुधीर जी, बड़ी बड़ी मुसीबतों का सामना किया हैआपने,और उनसे जीत के निकले हैं।अभी भी आप कोरोना को हराकर निकलेंगे। हम सभी आपके सच्चे प्रशंसक हैं और सच्चे प्रशंसकों की प्रार्थना कभी व्यर्थ नही जाएगी।भगवान हमारी प्रार्थना जरूर सुनेंगे और आप जल्द ही स्वस्थ होकर आएंगे।",
+                    "label": "NONE"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_12_reply_3",
+                    "tweet": "@COMMENTATOR @AUTHOR , 😂😂😂😂",
+                    "label": "HOF"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_13",
+            "tweet": "@AUTHOR कोरोनिल किट और गौमूत्र की शीशी मँगवा ले तिहाड़ी..कृपा आनी शुरू हो जाएगी। और ऑक्सीजन की कमी होने पर पीपल के पेड़ के नीचे बैठना।",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_13_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR आपको तो दवा पता है। कोरोना हुआ था क्या? या आपके फैमिली में किसी को हुआ था।",
+                    "label": "NONE"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_13_reply_2",
+                    "tweet": "@COMMENTATOR @AUTHOR Ravish Kumar Kaisa hi ganda dimag hai tera Rahul ka baap Rajiv sarcatic...thori insaniyat apne me develop ker le",
+                    "label": "HOF"
+                }
+            ],
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_14",
+            "tweet": "@AUTHOR Get well soon sir, if in case need Plasma then tell me, I just recovered from corona.",
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_15",
+            "tweet": "@AUTHOR Hope oxygen remdisivir  and other required medicine along with bed are already arrange by the favourite Party for you -  DNA ya RNA  - get well soon then will say “ Sala maut ko chakma de kar aaya hu”",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_15_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Karma bro return ka chances very less",
+                    "label": "HOF"
+                }
+            ],
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_16",
+            "tweet": "@AUTHOR किस जमात मे चले गए थे सुधीर जी",
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_17",
+            "tweet": "@AUTHOR गौ मूत्र सेवन अवश्य करें। (ये मेरा नुस्खा नहीं इन सज्जन का बताया हुआ है,) \nईश्वर आपको जल्द ठीक करें। \nभारत माता की जय। @URL",
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_18",
+            "tweet": "@AUTHOR After listening to the news of Corona for so long, the children have also become experienced. Two days ago, when you did not come to DNA, my 8-year-old son also started saying that he may be covid positive. I scolded him.But today I knew he was right.Get well soon Sir.🙏",
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_19",
+            "tweet": "@AUTHOR कृपया आप घर पर रहकर कोरोनिल किट, काढ़ा, श्वासारी गोल्ड आदि का इस्तेमाल करें। हॉस्पिटल में एडमिट न हों। ईश्वर आपको जल्द स्वस्थ करें। परम् श्रद्धेय पूज्य स्वामी जी @USER महाराज से एक बार बात कर लें।",
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_20",
+            "tweet": "@AUTHOR For the first time, Sudhir Chaudhary shared any positive news.\nStay safe Corona",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_20_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Jihadi mansikta everywhere",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_20_reply_2",
+                    "tweet": "@COMMENTATOR @AUTHOR तुम जैसे घटिया लोग ऐसे ही बोलेंगे",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_20_reply_3",
+                    "tweet": "@COMMENTATOR @AUTHOR This is called Negative attitude...! Even in Corona cannnot raise above....!",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_20_reply_4",
+                    "tweet": "@COMMENTATOR @AUTHOR जाहिल कौम.... @URL",
+                    "label": "HOF"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_21",
+            "tweet": "@AUTHOR @USER इस देश में एक मुस्लिम ही ऐसे लोग हैं जो अपना खून कभी दान नहीं करते और अस्पतालों में जब मरने का नंबर आता है तो खून की मांग करते हैं और देने के बारे में बताया जाता है कि इस्लाम में रक्तदान करना हराम है वाह रे वाह दोगले लोगों",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_21_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR @USER *अच्छा है वैक्सीन उम्र के आधार पर लग रही है..*\n*अगर अक्ल के आधार पर लगती तो बेचारे अंधभक्त तो रह ही जाते!!!*\n              😉🤭😛",
+                    "label": "HOF"
+                }
+            ],
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_22",
+            "tweet": "@AUTHOR NANO CHIP OF Rs2000 saved you, my dear TIHADI GODIA ( @AUTHOR ) @URL",
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_23",
+            "tweet": "@AUTHOR जल्दी से ठीक होकर आओ यार,\nतुम्हारे बिना DNA अच्छा नहीं लग रहा है।\nबड़े से बड़े DR. को दिखाना,और लंग्स में इन्फेक्शन मत होने देना ।\nI LOVE YOU MY BIG BROTHER @URL",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_23_reply_1",
+                    "tweet": "@AUTHOR Abhi thand nahi pad rahi hai beta. \nTu apna khyal rkhiyo.\nKahi tu na tapk jayiuo.",
+                    "label": "HOF"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_24",
+            "tweet": "@AUTHOR भाई अपना खयाल रखना.. मन से.. दिल से मजबूत रहना.. और जब वापस आओ तो एक #DNA #आसाराम_बापू_के_साथ_भेदभाव  पर करना.. पैसा तो बहुत कमा लिया अब कुछ पुण्य कमा लो.. यही समय है..! \nएक निर्दोष संत 85yr old झूठे आरोप में जेल में.. और एक दिन के लिए भी बेल नहीं.",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_24_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR अगर इतना महान शक्ति वाला है फिर उसके शिष्यों को रिहाई की भीख क्यूँ माँगनी पड़ रही है,जो ख़ुद अपनी ज़िंदगी में आयी समस्याओं से नहीं निबट सकता वो भक्तों की समस्याएँ क्या ख़ाक दूर करेगा। अब उसका अंत आ गया है जितनी जल्दी समझ जाओ अच्छा होगा।",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_24_reply_2",
+                    "tweet": "@COMMENTATOR @AUTHOR वो संत नही हैं, एक्टर हैं अपनी एक्टिंग से लोगो को लुभाता था , उसकी आँखों मे ही हरामीपन झलकता हैं, वासना से भरा हुआ और खुद को भगवान समझता हैं। उसको छुड़ा दिया तो पाप लगेगा।",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_24_reply_3",
+                    "tweet": "@COMMENTATOR @AUTHOR Woh balaatkaari kahan se sant hai.usne apni har shishya ke saath rape kiya hai",
+                    "label": "HOF"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_25",
+            "tweet": "@AUTHOR सुधीर भाई जीआप जल्दी ठीक  होगे।आपके बिना डीएनए अच्छा नही लग रहा हैआपसे डीएनए सुनने की आदत हो गई है।ईश्वर आपको जल्दी ठीक करेगे🙏🙏🙏🙂🙂",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_25_reply_1",
+                    "tweet": "@AUTHOR मै आपके लिए ईश्वर से प्रार्थना करूगी जब तक आप डीएनए मै वापस नही आ जाते ।🙏🙏🙏",
+                    "label": "NONE"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_26",
+            "tweet": "@AUTHOR भाईसाहब फिर तो आप को गौ मुत्र व गोबर का सेवन करना चाहिए।।",
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_27",
+            "tweet": "@AUTHOR आदरणीय भाई सुधीर जी,\nकृपया आप घर पर रहकर कोरोनिल किट, आयुर्वेदिक काढ़ा,श्वासारी गोल्ड आदि का इस्तेमाल करें।हॉस्पिटल में एडमिट न हों।ईश्वर आपको शिघ्र स्वस्थ करें ऐसी कामना हम करते है।\n#DNA आपके बगैर अधूरा लग रहा है।\nप.पु.@USER जी,से एक बार जरूर परामर्श कर लें। @URL",
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_28",
+            "tweet": "@AUTHOR Get well soon sir! 🌼😇",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_28_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Chaat le tu bhi haan",
+                    "label": "HOF"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_29",
+            "tweet": "@AUTHOR सुधीर जी आप इस देश के रीयल हीरो हो।\nमहादेवजी से प्रार्थना है आपको जल्द स्वस्थ करे।🙏\n आप बहुत जल्द स्वस्थ होंगे आपके पास करोड़ो अच्छे लोगो का प्यार और आशीर्वाद है। \n\nहम आपका बेशब्री से इंतिजार कर रहे है। 🙏\n#DNA_परिवार @AUTHOR @URL",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_29_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR What will be the name of Mount Everest",
+                    "label": "NONE"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_30",
+            "tweet": "@AUTHOR \"विज्ञान के पास spirit नाम की कोई चीज नहीं है, matter ही matter है । \" - सद्गुरूदेव श्री रामलाल जी सियाग\n@URL \n#Meditation \n#Yoga_Automatic \nFree of charge @URL",
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_31",
+            "tweet": "@AUTHOR Dear Sudhir ji. \nMy Son Vihaan Trigunayat (7year's old) watches your DNA show since last one year\nHe is your Big fan and now when he came to know that you are covid positive then he got upset but at the next moment he whished for your speedy recovery.",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_31_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Sir, I think you shouldn't feed hatred to ur son. Please try to stay away ur son from these enmity spokesmen. Kindly requested.🙏",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_31_reply_2",
+                    "tweet": "@COMMENTATOR @AUTHOR Keep away kids from lie and fake for a better future",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_31_reply_3",
+                    "tweet": "@COMMENTATOR @AUTHOR Just a reminder to you. You are corrupting your child. READ IT AGAIN.",
+                    "label": "HOF"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_32",
+            "tweet": "@AUTHOR Pakka tabligio k ifttiaar party main gaye honge !!!",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_32_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Ki paen re tote..bhaina amoro juthiku b jaantu",
+                    "label": "HOF"
+                }
+            ],
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_33",
+            "tweet": "@AUTHOR Were you not wearing Mask . Its easy to say people are careless but even the one who teaches lessons of being careful get infected.",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_33_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Wearing mask , Sanitizer and Social distancing is sort of vaccine. They may be 95 to 99% protective but can't give you 100% guarantee against Covid. It's difficult to educate some foolish people on this fact.",
+                    "label": "NONE"
+                }
+            ],
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_34",
+            "tweet": "@AUTHOR #GodiMedia modi ji miss you only....",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_6_comment_34_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR अबे चुप कर कुतरे",
+                    "label": "HOF"
+                }
+            ],
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_35",
+            "tweet": "@AUTHOR pray to GOD that u get wel soon coz u may hav kids who r not party to ur misdeeds &amp; sins. Well come back again coz d nation is in peace without ur spit of venomous religious hatred. Hope u r being treated not with coronil. @USER @USER @USER @USER",
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_6_comment_36",
+            "tweet": "@AUTHOR thodi taakat kya mili khud ko KHUDA samajh liya..!!!1 Bhagwaan Shree Ram tumhe kabhi maaf nahi karegey.",
+            "label": "HOF"
+        }
+    ],
+    "label": "NONE"
+}

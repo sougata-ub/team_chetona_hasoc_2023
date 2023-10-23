@@ -1,0 +1,36 @@
+{
+    "tweet_id": "2022_train_main_tweet_54",
+    "tweet": "‘You are not a journalist. Your attitude is communal’\n\n@USER @USER Rahul Kanwal @USER - For you.\n\nh/t @USER \n\n @URL",
+    "comments": [
+        {
+            "tweet_id": "2022_train_main_tweet_54_comment_1",
+            "tweet": "@AUTHOR @USER @USER @USER @USER What about Desi Daru Primium Kaua sorry Journalist ❓",
+            "replies": [
+                {
+                    "tweet_id": "2022_train_main_tweet_54_comment_1_reply_1",
+                    "tweet": "@COMMENTATOR @USER @USER @USER @USER Hehe"
+                }
+            ]
+        },
+        {
+            "tweet_id": "2022_train_main_tweet_54_comment_2",
+            "tweet": "@AUTHOR @USER @USER @USER @USER Watching again and again. \nMera dil kushu hua.",
+            "replies": [
+                {
+                    "tweet_id": "2022_train_main_tweet_54_comment_2_reply_1",
+                    "tweet": "@COMMENTATOR @USER @USER @USER @USER 💃"
+                }
+            ]
+        },
+        {
+            "tweet_id": "2022_train_main_tweet_54_comment_3",
+            "tweet": "@AUTHOR @USER @USER @USER @USER Truly Brutal !!",
+            "replies": [
+                {
+                    "tweet_id": "2022_train_main_tweet_54_comment_3_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR @USER @USER @USER @USER Frustration showing. Image shattered."
+                }
+            ]
+        }
+    ]
+}

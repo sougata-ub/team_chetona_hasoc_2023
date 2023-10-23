@@ -1,0 +1,16 @@
+{
+    "tweet_id": "2021_train_main_tweet_32",
+    "tweet": "@USER @USER Vinod Dua can also meet 72 in Heaven 😀😀😀",
+    "comments": [
+        {
+            "tweet_id": "2021_train_main_tweet_32_comment_1",
+            "tweet": "@AUTHOR @USER No..For that he has to become a martyr first..",
+            "replies": [
+                {
+                    "tweet_id": "2021_train_main_tweet_32_comment_1_reply_1",
+                    "tweet": "@COMMENTATOR @USER 😜😜😜"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+WANDB_PROJECT=hasoc PYTHONPATH=.. python run_classification.py \
+  --model_name_or_path ai4bharat/indic-bert \
+  --train_file ../datasets/task2_ichcl/processed_data_2a.json \
+  --overwrite_output_dir True \
+  --warmup_steps 500 \
+  --shuffle_train_dataset \
+  --metric_name f1 \
+  --text_column_name text \
+  --label_column_name label \
+  --do_train \
+  --do_eval \
+  --max_seq_length 256 \
+  --per_device_train_batch_size 8 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir ./results/indic-bert-2a \
+  --load_best_model_at_end True \
+  --eval_steps 500 \
+  --eval_accumulation_steps 1 \
+  --evaluation_strategy steps \
+  --save_strategy steps \
+  --save_steps 500 \
+  --logging_strategy steps \
+  --logging_steps 100 \
+  --report_to wandb \
+  --save_total_limit 1 \
+

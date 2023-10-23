@@ -1,0 +1,50 @@
+{
+    "tweet_id": "2022_train_main_tweet_25",
+    "tweet": "#RepublicTV gets international recognition.",
+    "comments": [
+        {
+            "tweet_id": "2022_train_main_tweet_25_comment_1",
+            "tweet": "@AUTHOR And look at you, even your neighborhood people may not recognize you. Bad luck saba!!😣",
+            "replies": [
+                {
+                    "tweet_id": "2022_train_main_tweet_25_comment_1_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR 🤣🤣🤣🤣🤣🤣"
+                },
+                {
+                    "tweet_id": "2022_train_main_tweet_25_comment_1_reply_2",
+                    "tweet": "@COMMENTATOR @AUTHOR 😂😂😂😂"
+                }
+            ]
+        },
+        {
+            "tweet_id": "2022_train_main_tweet_25_comment_2",
+            "tweet": "@AUTHOR International beijjati @USER",
+            "replies": [
+                {
+                    "tweet_id": "2022_train_main_tweet_25_comment_2_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR @USER ❤dey"
+                }
+            ]
+        },
+        {
+            "tweet_id": "2022_train_main_tweet_25_comment_3",
+            "tweet": "@AUTHOR How long will we demand recognition from Western countries for our work?",
+            "replies": [
+                {
+                    "tweet_id": "2022_train_main_tweet_25_comment_3_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Real question is how long will Godi Media use footage of western countries' games to fool people like you."
+                }
+            ]
+        },
+        {
+            "tweet_id": "2022_train_main_tweet_25_comment_4",
+            "tweet": "@AUTHOR Whats your take ? Just simply posting doesn't sufficient",
+            "replies": [
+                {
+                    "tweet_id": "2022_train_main_tweet_25_comment_4_reply_1",
+                    "tweet": "@COMMENTATOR @AUTHOR Her take is that she had to leave a debate on live TV on Republic , and this is her revenge 😃😃😃. Also , she will still try being invited there, to try keep herself relevant any which way"
+                }
+            ]
+        }
+    ]
+}

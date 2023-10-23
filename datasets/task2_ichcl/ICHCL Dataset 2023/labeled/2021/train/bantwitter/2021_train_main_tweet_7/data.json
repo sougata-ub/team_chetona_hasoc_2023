@@ -1,0 +1,14 @@
+{
+    "tweet_id": "2021_train_main_tweet_7",
+    "tweet": "Twitter urges Indian government to respect freedom of expression @URL @URL",
+    "comments": [
+        {
+            "tweet_id": "2021_train_main_tweet_7_comment_1",
+            "tweet": "@AUTHOR This has to be from the Onion."
+        },
+        {
+            "tweet_id": "2021_train_main_tweet_7_comment_2",
+            "tweet": "@AUTHOR let's ask this guy about twitter freedom\n@URL"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "tweet_id": "2021_test_main_tweet_4",
+    "tweet": "#नीला_बकलोल_दिवस reservation bhik h @URL",
+    "comments": [
+        {
+            "tweet_id": "2021_test_main_tweet_4_comment_1",
+            "tweet": "@AUTHOR Aap logo ke  isi Soch ke Karan hinduo me darar paida Hoti hai aur election time Hindu ke Nam pe vote mangte ho",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_4_comment_1_reply_1",
+                    "tweet": "@COMMENTATOR Hindu Muslim ki aad me side me jo reservation ka khel chal ra h usse ignore kr de hum.",
+                    "label": "NONE"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_4_comment_2",
+            "tweet": "@AUTHOR Bikh ews me mil rahi hai",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_4_comment_2_reply_1",
+                    "tweet": "@COMMENTATOR Tumhari glt fami bhi door kr deta hoon ab bolo kon h bhikari @URL",
+                    "label": "HOF"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_4_comment_2_reply_2",
+                    "tweet": "@AUTHOR Vacancy",
+                    "label": "NONE"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_4_comment_2_reply_3",
+                    "tweet": "@AUTHOR Genral",
+                    "label": "NONE"
+                },
+                {
+                    "tweet_id": "2021_test_main_tweet_4_comment_2_reply_4",
+                    "tweet": "@COMMENTATOR @URL poori details lelo or bhar bhi sakte ho abhi extension hui h date me or dekhlo kitne equality h bhaisahab",
+                    "label": "NONE"
+                }
+            ],
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_4_comment_3",
+            "tweet": "@AUTHOR Agar reservation bhik h to tum logo se bada es duniya me koi bhikhari nhi h😀😀😀",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_4_comment_3_reply_1",
+                    "tweet": "@COMMENTATOR 5000BC ki descendency h kshatriyaon ki bhik department belongs 2u reservation / aarakshan jivi",
+                    "label": "HOF"
+                }
+            ],
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_4_comment_4",
+            "tweet": "@AUTHOR Je beem",
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_4_comment_5",
+            "tweet": "@AUTHOR Jiska meme bana rhe ho uske wajah se hi aaj tujh jaise napunsak yeh tweet karne ka freedom hai.",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_4_comment_5_reply_1",
+                    "tweet": "@COMMENTATOR Mind your language first no one is your dad servant here first of all I don't make meme n all or freedom of speech kiske constitution se liya hai batao zara",
+                    "label": "NONE"
+                }
+            ],
+            "label": "HOF"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_4_comment_6",
+            "tweet": "@AUTHOR Baba sahab ko na kaho kuch .... Jo kuvh bhadka tha h vo h chandra sekhar azad",
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_4_comment_7",
+            "tweet": "@AUTHOR chaddhi diwas manaoge bas",
+            "replies": [
+                {
+                    "tweet_id": "2021_test_main_tweet_4_comment_7_reply_1",
+                    "tweet": "@COMMENTATOR Mere iss tweet le bhi aagya tu bot hai kya modi or bjp ke fan nahi hum tuje topi pehnni h ya chaddi wo teri choice",
+                    "label": "NONE"
+                }
+            ],
+            "label": "NONE"
+        },
+        {
+            "tweet_id": "2021_test_main_tweet_4_comment_8",
+            "tweet": "@AUTHOR 10% ews और आज़ादी के पहले पूर्ण आरक्षण सबसे बड़ी भीख थी जो सिर्फ तुम लोग लेते थे।",
+            "label": "HOF"
+        }
+    ],
+    "label": "HOF"
+}

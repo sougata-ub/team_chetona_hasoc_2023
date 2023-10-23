@@ -1,0 +1,20 @@
+{
+    "tweet_id": "2021_train_main_tweet_45",
+    "tweet": "Fuck Boris and fuck Modi. Two pricks",
+    "comments": [
+        {
+            "tweet_id": "2021_train_main_tweet_45_comment_1",
+            "tweet": "@AUTHOR Amen 🙏🏼"
+        },
+        {
+            "tweet_id": "2021_train_main_tweet_45_comment_2",
+            "tweet": "@AUTHOR Offend him? More like 'I am meeting this prick for trade talks. Nothing can get in way of me making money for my 1%ers.\nSo what if a few ppl get ill or die or extended lockdown costs ppl their jobs and/or houses. \nMe and my boys are loaded. Won't affect us😊.'",
+            "replies": [
+                {
+                    "tweet_id": "2021_train_main_tweet_45_comment_2_reply_1",
+                    "tweet": "@COMMENTATOR That’s exactly it"
+                }
+            ]
+        }
+    ]
+}
